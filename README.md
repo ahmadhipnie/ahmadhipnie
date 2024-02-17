@@ -8,4 +8,4 @@ Saya bertanggung jawab pada kualitas materi Android.<br>
 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2024.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmadhipnie/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-hipnie-khoiri/)ku ya.
