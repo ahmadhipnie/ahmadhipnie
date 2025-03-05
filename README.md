@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm hypenie</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [konstruksip](https://github.com/Syahroni12/kontruksip_frelance)
+- 🔭 I’m currently working on [margo utomo](https://github.com/ahmadhipnie/margo_utomo)
+      the eco resort and villa resort
 
 - 🌱 I’m currently learning **machine learning and python**
 
