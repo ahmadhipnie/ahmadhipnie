@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hypenie</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [CV. Abang Putera](https://github.com/ahmadhipnie/mobile_cv_abang_putra)
+- 🔭 I’m currently working on [Margo Utomo Hotel & Resorts](https://github.com/ahmadhipnie)
 
 - 🌱 I’m currently learning **machine learning and python**
 
